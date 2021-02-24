@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tanishq Verma</h1>
-<h3 align="center">A Artificial Intelligence Enthusiast from India</h3>
+<h3 align="center">An Artificial Intelligence Enthusiast from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=verma-tanishq&label=Profile%20views&color=0e75b6&style=flat" alt="verma-tanishq" /> </p>
 
