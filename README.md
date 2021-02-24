@@ -36,6 +36,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://paypal.me/tanishq1212?locale.x=en_GB"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://paypal.me/tanishq1212?locale.x=en_GB" /></a></p><br><br>
 
-
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=verma-tanishq&show_icons=true&locale=en" alt="verma-tanishq" /></p>
+
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=verma-tanishq&repo=verma-tanishq)
