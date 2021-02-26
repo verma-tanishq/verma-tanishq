@@ -16,11 +16,11 @@
 
 - 📫 How to reach me **vermatanishq1212@gmail.com**
 
-- ⚡ Fun fact **I am introvert**
+- ⚡ Fun fact **Right now I'm looking at you, 'cause you're looking at me.**
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"></h3>
 <p align="left">
 <a href="https://linkedin.com/in/tanishq-verma" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="tanishq-verma" height="30" width="40" /></a>
 <a href="https://fb.com/tanishq.verma.2001" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="tanishq.verma.2001" height="30" width="40" /></a>
