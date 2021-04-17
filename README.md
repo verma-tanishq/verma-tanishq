@@ -40,10 +40,11 @@
 <h3 align="left">Stats:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=verma-tanishq&show_icons=true&locale=en&layout=compact" alt="verma-tanishq" />
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=verma-tanishq&show_icons=true&locale=en" alt="verma-tanishq" /></p>
+<br>
 
 <h3 align="left">Support:</h3>
 <p align="left">
-<a href="https://www.paypal.me/tanishq1212"><img src="https://img.shields.io/badge/support-PayPal-blue?logo=PayPal&style=flat-square&label=Donate" alt="sponsor github profile readme generator" height="50" width="210"/>
-<p><a href="https://www.buymeacoffee.com/tanishqverma"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://paypal.me/tanishq1212?locale.x=en_GB" /></a></p>
+<a href="https://www.paypal.me/tanishq1212"><img src="https://img.shields.io/badge/support-PayPal-blue?logo=PayPal&style=flat-square&label=Donate" alt="sponsor github profile readme generator" height="50" width="210"/></a>
+<a href="https://www.buymeacoffee.com/tanishqverma"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://paypal.me/tanishq1212?locale.x=en_GB" /></a></p>
 
 <img align='center'  height="70" alt="Thanks" width="100%" src="https://github.com/verma-tanishq/verma-tanishq/blob/master/Generator/Thank-You.svg"/>
