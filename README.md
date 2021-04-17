@@ -37,9 +37,10 @@
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=verma-tanishq&show_icons=true&locale=en" alt="verma-tanishq" /></p>
 
+<br>
 
-<h4 align="center">Show ❤️ By Starring My <a href='https://github.com/verma-tanishq?tab=repositories'><img align='center'  height="22" src="https://img.shields.io/badge/Repos!😊-purple.svg?&style=for-the-badge&logo=KushalDas&logoColor=blue" /></a></h4><br><br>
-
+<h4 align="center">Show ❤️ By Starring My <a href='https://github.com/verma-tanishq?tab=repositories'><img align='center'  height="22" src="https://img.shields.io/badge/Repos!😊-purple.svg?&style=for-the-badge&logo=KushalDas&logoColor=blue" /></a></h4>
+<br>
 
 <h3 align="left">Support:</h3>
 <p align="left">
