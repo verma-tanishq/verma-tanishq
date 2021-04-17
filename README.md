@@ -35,7 +35,7 @@
 <h3 align="left">Stats:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=verma-tanishq&show_icons=true&locale=en&layout=compact" alt="verma-tanishq" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=verma-tanishq&show_icons=true&locale=en" alt="verma-tanishq" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=verma-tanishq&show_icons=true&locale=en" alt="verma-tanishq" /></p><br><br>
 
 <h3 align="left">Support:</h3>
 <p align="left">
