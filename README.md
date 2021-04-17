@@ -42,3 +42,4 @@
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=verma-tanishq&show_icons=true&locale=en" alt="verma-tanishq" /></p>
 
+<img align='center'  height="70" alt="Thanks" width="100%" src="https://github.com/verma-tanishq/verma-tanishq/blob/master/Generator/Thank-You.svg"/>
