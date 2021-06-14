@@ -40,8 +40,7 @@
 -->
 
 
-![Tanishq's github activity graph](https://activity-graph.herokuapp.com/graph?username=verma-tanishq&theme=dracula&layout=compact&title_color=FF69B4&area=true&hide_border=false)
-
+![Tanishq's github activity graph](https://activity-graph.herokuapp.com/graph?username=verma-tanishq&theme=react-dark&layout=compact&title_color=FF69B4&area=true&hide_border=false)
 <details align="center">
   <summary>GitHub Trophies 🏆</summary>
 <p align="center">
