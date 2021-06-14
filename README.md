@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Tanishq Verma</h1>
 <h3 align="center">An Artificial Intelligence Enthusiast from India</h3>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-
+<p><a href="https://www.buymeacoffee.com/tanishqverma"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="150" alt="https://paypal.me/tanishq1212?locale.x=en_GB" /></a></p>
+<a href="https://www.paypal.me/tanishq1212"><img align="center" src="https://img.shields.io/badge/support-PayPal-blue?logo=PayPal&style=flat-square&label=Donate" alt="paypal" height="50" width="150"/></a></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=verma-tanishq&label=Profile%20views&color=0e75b6&style=flat" alt="verma-tanishq" /> </p>
 
 - 🔭 I’m currently working on [Google Frontend Project](https://github.com/verma-tanishq/HarvardX-CS50W)
@@ -51,7 +52,7 @@
 </details>
 
 
-<!-- ## My Skill Set 🖥️
+## My Skill Set 🖥️
 <table><tr><td valign="top" width="33%">
 
 ### Frontend  
@@ -88,7 +89,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
 </div>
 
-</td></tr></table>   -->
+</td></tr></table>   
 
 ## Github Statistics ⚖️
 <table><tr><td valign="top" width="34%">
@@ -112,9 +113,9 @@
 
 -->
 
-<h3 align="left">Support:</h3>
+<!-- <h3 align="left">Support:</h3>
 <p align="left">
 <a href="https://www.paypal.me/tanishq1212"><img src="https://img.shields.io/badge/support-PayPal-blue?logo=PayPal&style=flat-square&label=Donate" alt="sponsor github profile readme generator" height="50" width="210"/></a></p>
 <p><a href="https://www.buymeacoffee.com/tanishqverma"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://paypal.me/tanishq1212?locale.x=en_GB" /></a></p>
 
-<img align='center'  height="70" alt="Thanks" width="100%" src="https://github.com/verma-tanishq/verma-tanishq/blob/master/Generator/Thank-You.svg"/>
+<img align='center'  height="70" alt="Thanks" width="100%" src="https://github.com/verma-tanishq/verma-tanishq/blob/master/Generator/Thank-You.svg"/> -->
