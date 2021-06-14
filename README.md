@@ -20,25 +20,39 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<img height="25" src="https://img.shields.io/badge/Spotify Playing - 🎧-yellow.svg?&style=for-the-badge&logo=KushalDas&logoColor=blue" />
-<br>
-
-[<img src="https://spotify-github-profile.vercel.app/api/view?uid=t9qsz4y7ioxsorexrcx145140&cover_image=true&theme=default" alt="Tanishq Spotify Playing" width="350" />](https://spotify-github-profile.vercel.app/api/view?uid=t9qsz4y7ioxsorexrcx145140&redirect=true)
-<!--[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=t9qsz4y7ioxsorexrcx145140&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=t9qsz4y7ioxsorexrcx145140&redirect=true)
--->
-<h3 align="left">Connect with me: </h3><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
-<p align="left">
+<!-- <h3 align="right">Connect with me: </h3><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" align='right'>
+<p align="right">
 <a href="https://linkedin.com/in/tanishq-verma" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="tanishq-verma" height="30" width="40" /></a>
 <a href="https://fb.com/tanishq.verma.2001" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="tanishq.verma.2001" height="30" width="40" /></a>
 <a href="https://medium.com/@vermatanishq1212" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@vermatanishq1212" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/tanishq_verma" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="tanishq_verma" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@xijelep439" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="@xijelep439" height="30" width="40" /></a>
+</p>  -->
+
+<img height="25" src="https://img.shields.io/badge/Spotify Playing - 🎧-yellow.svg?&style=for-the-badge&logo=KushalDas&logoColor=blue" aligh='left' valign='top' />
+
+[<img src="https://spotify-github-profile.vercel.app/api/view?uid=t9qsz4y7ioxsorexrcx145140&cover_image=true&theme=novatorem" alt="Tanishq Spotify Playing" width="350" align='left'/>](https://spotify-github-profile.vercel.app/api/view?uid=t9qsz4y7ioxsorexrcx145140&redirect=true)
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=verma-tanishq&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact" alt="Tanishq Verma" align="left" style="width: 100%" />
+
+<!--[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=t9qsz4y7ioxsorexrcx145140&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=t9qsz4y7ioxsorexrcx145140&redirect=true)
+-->
+
+
+![Tanishq's github activity graph](https://activity-graph.herokuapp.com/graph?username=verma-tanishq&theme=dracula&layout=compact&title_color=FF69B4&area=true&hide_border=false)
+
+<details align="center">
+  <summary>GitHub Trophies 🏆</summary>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
+    <img src="https://github-profile-trophy.vercel.app/?username=verma-tanishq&theme=juicyfresh&layout=compact&title_color=00FF00"/>
+  </a>
 </p>
+</details>
+
 
 ## My Skill Set 🖥️
 <table><tr><td valign="top" width="33%">
-
-
 
 ### Frontend  
 <div align="center">  
@@ -76,20 +90,16 @@
 
 </td></tr></table>  
 
-<br/> 
-
 ## Github Statistics ⚖️
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="34%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=verma-tanishq&show_icons=true&hide_border=true&show_owner=true&title_color=FFFF00&count_private=true&theme=dark&custom_title=Hello Programmers! 👏&layout=compact" align="left" style="width: 100%" />
 
-</td><td valign="top" width="50%">
+</td><td valign="top" width="33%">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=verma-tanishq&title_color=FF69B4&custom_title=Most Used Languages :D &layout=compact&theme=highcontrast&langs_count=10" alt="Tanishq Verma" align="left" style="width: 100%" />
-
+    
 </td></tr></table>
-<br/>
-
 <!--
 <h3 align="left">Stats:</h3>
 <p <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=verma-tanishq&show_icons=true&locale=en&layout=compact" alt="verma-tanishq" />
